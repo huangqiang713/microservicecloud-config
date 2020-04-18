@@ -10,6 +10,6 @@ spring:
 
 ---
 spring:
-  profiles: test  #测试环境222
+  profiles: test  #测试环境111
   application:
     name: microservicecloud-config-atguigu-test
